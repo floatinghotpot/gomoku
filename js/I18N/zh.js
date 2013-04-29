@@ -23,8 +23,8 @@ J42R.put("zh", {
     "help" : {
          "about" : "关于",
          "enjoy" : "祝玩得开心！",
-         "ported" : "移动版本开发：谢黎明",
-         "created" : "原始设计：姚玉剑（新加坡）",
+         "ported" : "移动版本：谢黎明",
+         "created" : "原始设计：姚宇健",
          "cordova" : "移动设备框架：Apache Cordova",
          "j42r" : "多语言框架：Martin Rohrmeier（德国）",
          "trans" : "翻译：",
