@@ -24,7 +24,7 @@ J42R.put("en", {
          "about" : "About",
          "enjoy" : "Enjoy!",
          "ported" : "Developer: Liming Xie",
-         "created" : "Designer: Yujian Yao (Singapore)",
+         "created" : "Designer: Yujian Yao",
          "cordova" : "Mobile framework：Apache Cordova",
          "j42r" : "i18n framework：Martin Rohrmeier (German)",
          "trans" : "Translation:",
