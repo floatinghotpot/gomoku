@@ -4,5 +4,8 @@ The gomoku web game was originally developed by Yujian Yao, student of National 
 It's optimized by Liming Xie, with more features:
 (1) Local web app. No remote website or AJAX is required.
 (2) Multi-language support (i18n).
+(3) Picture updated with better art design.
+(4) Audio effect added.
+(5) A few bugs of layout fixed.
 
 
