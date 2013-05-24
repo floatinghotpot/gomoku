@@ -1,9 +1,9 @@
 J42R.put("en", {
     "gamewon": {
-         "win" : "You Win!",
-         "again" : "You have won the game! Play again?",
+         "win" : "You win!",
+         "again" : "You win! Play again?",
          "back" : "Back",
-         "startnew" : " Start A New Game "
+         "startnew" : "New Game"
     },
     "newgame" : {
          "newgame" : "New Game",
@@ -13,7 +13,7 @@ J42R.put("en", {
          "color" : "Your Color",
          "black" : "Black",
          "white" : "White",
-         "level" : "Level Of Difficulty",
+         "level" : "Level",
          "novice" : "Novice",
          "medium" : "Medium",
          "expert" : "Expert",
@@ -23,25 +23,25 @@ J42R.put("en", {
     "help" : {
          "about" : "About",
          "enjoy" : "Enjoy!",
-         "ported" : "Developer: Liming Xie",
-         "created" : "Designer: Yujian Yao",
-         "cordova" : "Mobile framework：Apache Cordova",
-         "j42r" : "i18n framework：Martin Rohrmeier (German)",
-         "trans" : "Translation:",
-         "zh" : "Chinese (Simplified): Liming Xie",
-         "jp" : "Japaense: Li Cao"
+         "development" : "Mobile Development: Liming Xie",
+         "design" : "Original Design: Yujian Yao",
+         "ad" : "RNJSOFT, offering customization service on Mobile Apps and Cloud Computing soutions.",
+         "welcome" : "If you need own mobile apps & games, contact us.",
+         "email" : "Email: rnjsoft.mobile@gmail.com",
+         "twitter" : "Twitter: @rnjsoft",
+         "website" : "Website: http://www.rnjsoft.com/"
     },
     "game" : {
          "gomoku" : "Gomoku",
          "yourturn" : "Your turn.",
-         "new" : "New Game",
+         "new" : "New",
          "undo" : "Undo",
          "about" : "About"
     },
     "msg" : {
          "uwon" : "You won!",
          "ulost" : "You lost!",
-         "ulostagain" : "Oops! You lost to computer. Play again?",
+         "ulostagain" : "Oops! You lost. Play again?",
          "uwonagain" : "You won. Play again?",
          "yourturn" : "Your turn.",
          "thinking" : "Thinking...",

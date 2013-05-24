@@ -10,9 +10,9 @@ J42R.put("zh", {
          "with" : "选择对手",
          "human" : "玩家",
          "computer" : "电脑",
-         "color" : "选择你的颜色",
-         "black" : "黑子",
-         "white" : "白子",
+         "color" : "选择颜色",
+         "black" : "黑棋",
+         "white" : "白棋",
          "level" : "选择难度",
          "novice" : "新手上路",
          "medium" : "实力不凡",
@@ -23,21 +23,20 @@ J42R.put("zh", {
     "help" : {
          "about" : "关于",
          "enjoy" : "祝玩得开心！",
-         "ported" : "移动版本：谢黎明",
-         "created" : "原始设计：姚宇健",
-         "cordova" : "移动设备框架：Apache Cordova",
-         "j42r" : "多语言框架：Martin Rohrmeier（德国）",
-         "trans" : "翻译：",
-         "zh" : "简体中文：谢黎明",
-         "jp" : "日文：曹黎"
-         
+         "development" : "移动版本开发：谢黎明",
+         "design" : "原始设计：姚宇健",
+         "ad" : "智能手机应用、云计算解决方案，安杰科技为您量身打造。",
+         "welcome" : "如有定制需要，请与我们联系。",
+         "twitter" : "新浪微博：@RNJSOFT安杰科技 ｜ 微信：RNJSOFT",
+         "website" : "官方网站：http://www.rnjsoft.com/",
+         "email" : "邮箱：rnjsoft.mobile@gmail.com"
     },
     "game" : {
          "gomoku" : "五子棋",
-         "yourturn" : "该你了",
+         "yourturn" : "该你走",
          "new" : "新游戏",
-         "undo" : "取消上一步",
-         "about" : "关于"
+         "undo" : "撤销",
+         "about" : "更多..."
     },
     "msg" : {
          "uwon" : "你赢了！",
